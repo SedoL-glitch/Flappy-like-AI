@@ -1,3 +1,3 @@
 # imsedol
 
-i like coding... STOP
+simple project made with p5.js
